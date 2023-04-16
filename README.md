@@ -1,6 +1,6 @@
 ## The Aggregation States Of Liquid Crystal
 *This project presents a series of animations illustrating liquid crystal aggregation states. The transitions between the states and their specific visual effects are shown in each animation. The project includes 3D models, textures, materials and animations created in Blender.*<br>
-*The three states presented *<br>
+*The three states presented*<br>
 1. *solid state.*<br>
 2. *solid to crystalline liquid state.*<br>
 3. *liquid state.*<br>
