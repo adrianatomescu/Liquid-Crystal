@@ -1,8 +1,11 @@
-This project contains the three aggregation states of liquid crystal, made using Blender.
-1-solid state
-2-solid->crystalline liquid
-3-liquid state
+## The Aggregation States Of Liquid Crystal
+*This project presents a series of animations illustrating liquid crystal aggregation states. The transitions between the states and their specific visual effects are shown in each animation. The project includes 3D models, textures, materials and animations created in Blender.*<br>
+*The three states presented *<br>
+1. *solid state.<br>
+2. *solid to crystalline liquid state.<br>
+3. *liquid state.<br>
 
-In the folder named 'gif' you can find the animations already converted with .gif extension, and in the 'source' folder you can find the source files from blender.
+## How to run the animation
+*In the folder named 'gif' you can find the animations already converted with .gif extension, and in the 'source' folder you can find the source files from blender.*
 
-P.S: to use the files in the 'source' folder you need Blender software.
+*P.S: to use the files in the 'source' folder you need Blender software.
