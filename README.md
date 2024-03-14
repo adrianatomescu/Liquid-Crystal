@@ -8,7 +8,7 @@
 ## How to run the animation
 *In the folder named 'gif' you can find the animations already converted with .gif extension, and in the 'source' folder you can find the source files from blender.*
 
-*P.S: to use the files in the 'source' folder you need Blender software.*
+*Note: to use the files in the 'source' folder you need Blender software.*
 
 ## Contributions
 *If you would like to contribute to the development of this project, please have a look at the CONTRIBUTING.md file for more details.*
